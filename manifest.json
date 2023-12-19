@@ -1,0 +1,18 @@
+{
+  "id": "fog-of-war-filters",
+  "title": "Fog of War Filters",
+  "description": "A simple module created to apply filters to the explored fog of war area",
+  "authors": [
+    {
+    "name": "Space Otter"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "scripts": [
+  "scripts/fogFilter.js"
+  ]
+}

@@ -14,5 +14,6 @@
   },
   "scripts": [
   "scripts/fogFilter.js"
-  ]
+  ],
+  "url": "https://github.com/SpaceOtter99/FoundryFogOfWar"
 }

@@ -15,5 +15,6 @@
   "scripts": [
   "scripts/fogFilter.js"
   ],
-  "url": "https://github.com/SpaceOtter99/FoundryFogOfWar/releases/download/FogOfWar/FogOfWar.zip"
+  "url": "https://github.com/SpaceOtter99/FoundryFogOfWar",
+  "download": "https://github.com/SpaceOtter99/FoundryFogOfWar/releases/download/FogOfWar/FogOfWar.zip"
 }
